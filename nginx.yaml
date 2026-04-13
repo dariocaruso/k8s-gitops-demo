@@ -6,6 +6,7 @@ data:
   index.html: |
     <html>
       <head>
+        <meta charset="UTF-8">
         <title>NGINX DEMO</title>
       </head>
       <body>
